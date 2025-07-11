@@ -82,7 +82,8 @@ The app is easily deployable on platforms like **Render**, **PythonAnywhere**, o
 
 ## 📸 Screenshots
 
-(Add clear and illustrative screenshots of your running application here.)
+<img width="1919" height="908" alt="image" src="https://github.com/user-attachments/assets/a7710a8e-3d1d-4cc8-9512-eb65cca6ff53" />
+
 
 ## 📝 License
 
